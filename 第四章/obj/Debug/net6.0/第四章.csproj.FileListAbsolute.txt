@@ -1,0 +1,15 @@
+C:\Users\DLC\source\repos\第四章\bin\Debug\net6.0\第四章.exe
+C:\Users\DLC\source\repos\第四章\bin\Debug\net6.0\第四章.deps.json
+C:\Users\DLC\source\repos\第四章\bin\Debug\net6.0\第四章.runtimeconfig.json
+C:\Users\DLC\source\repos\第四章\bin\Debug\net6.0\第四章.dll
+C:\Users\DLC\source\repos\第四章\bin\Debug\net6.0\第四章.pdb
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.csproj.AssemblyReference.cache
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.AssemblyInfoInputs.cache
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.AssemblyInfo.cs
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.csproj.CoreCompileInputs.cache
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.dll
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\refint\第四章.dll
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.pdb
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\第四章.genruntimeconfig.cache
+C:\Users\DLC\source\repos\第四章\obj\Debug\net6.0\ref\第四章.dll
